@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { ChartsModule, CardsModule, ButtonsModule, TableModule } from 'angular-bootstrap-md';
+import { ChartsModule, CardsModule, ButtonsModule, TableModule } from 'angular-ng-uikit-pro-standard';
 import { ChartsComponent } from './containers/charts/charts.component';
 import { LineChartComponent } from './components/line-chart/line-chart.component';
 import { ChartsRoutingModule } from './charts-routing.module';

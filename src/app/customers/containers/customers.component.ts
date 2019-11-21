@@ -1,5 +1,5 @@
 import { Component, OnInit, OnDestroy } from '@angular/core';
-import { MDBModalRef, MDBModalService } from 'angular-bootstrap-md';
+import { MDBModalRef, MDBModalService } from 'angular-ng-uikit-pro-standard';
 import { Store } from '@ngrx/store';
 import { AppState } from '../../reducers/index';
 

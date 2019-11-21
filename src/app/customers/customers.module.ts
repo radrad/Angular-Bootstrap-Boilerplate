@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { CustomersComponent } from './containers/customers.component';
 import { FormsModule } from '@angular/forms';
-import { ButtonsModule, InputsModule, TableModule, IconsModule, ModalModule } from 'angular-bootstrap-md';
+import { ButtonsModule, InputsModule, TableModule, IconsModule, ModalModule } from 'angular-ng-uikit-pro-standard';
 
 import * as fromCustomers from './store/customers.reducer';
 import { StoreModule } from '@ngrx/store';

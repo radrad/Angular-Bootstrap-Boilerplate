@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { CardsModule, ButtonsModule, InputsModule } from 'angular-bootstrap-md';
+import { CardsModule, ButtonsModule, InputsModule } from 'angular-ng-uikit-pro-standard';
 import { ReactiveFormsModule, FormsModule } from '@angular/forms';
 import { ProfileComponent } from './containers/profile.component';
 import { ProfileRoutingModule } from './profile-routing.module';

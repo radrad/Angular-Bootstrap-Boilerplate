@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { MDBModalRef } from 'angular-bootstrap-md';
+import { MDBModalRef } from 'angular-ng-uikit-pro-standard';
 import { Subject } from 'rxjs';
 
 @Component({

@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 import { ProjectsComponent } from './containers/projects.component';
 import { StoreModule } from '@ngrx/store';
 import { HttpClientModule } from '@angular/common/http';
-import { ButtonsModule, InputsModule, CardsModule, WavesModule, IconsModule, ModalModule } from 'angular-bootstrap-md';
+import { ButtonsModule, InputsModule, CardsModule, WavesModule, IconsModule, ModalModule } from 'angular-ng-uikit-pro-standard';
 
 import * as fromProjects from './store/projects.reducer';
 import { EffectsModule } from '@ngrx/effects';

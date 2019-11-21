@@ -1,5 +1,5 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
-import { MDBModalRef } from 'angular-bootstrap-md';
+import { MDBModalRef } from 'angular-ng-uikit-pro-standard';
 import { Customer } from '../../../customers/models/customer.model';
 import { Subject } from 'rxjs';
 import { NgForm } from '@angular/forms';

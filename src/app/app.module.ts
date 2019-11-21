@@ -18,7 +18,7 @@ import { AngularFirestoreModule } from '@angular/fire/firestore';
 import { AngularFireDatabaseModule } from '@angular/fire/database';
 import { SharedModule } from './shared/shared.module';
 import { AdminModule } from './admin/admin.module';
-import { ModalModule } from 'angular-bootstrap-md';
+import { ModalModule } from 'angular-ng-uikit-pro-standard';
 
 
 @NgModule({

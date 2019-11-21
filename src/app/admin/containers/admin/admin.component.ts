@@ -16,7 +16,7 @@ import {
 import { Project } from '../../../projects/models/project.model';
 import { User } from '../../../auth/models/user.model';
 import { map, delay, take } from 'rxjs/operators';
-import { MDBModalService, MDBModalRef } from 'angular-bootstrap-md';
+import { MDBModalService, MDBModalRef } from 'angular-ng-uikit-pro-standard';
 import { ConfirmModalComponent } from '../../../shared/components/confirm-modal/confirm-modal.component';
 import { Customer } from '../../../customers/models/customer.model';
 

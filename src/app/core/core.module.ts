@@ -11,7 +11,7 @@ import {
   CardsModule,
   ButtonsModule,
   IconsModule
-} from 'angular-bootstrap-md';
+} from 'angular-ng-uikit-pro-standard';
 import { HomeComponent } from './home/home.component';
 import { RouterModule } from '@angular/router';
 import { DashboardComponent } from './dashboard/dashboard.component';

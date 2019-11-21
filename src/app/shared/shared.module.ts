@@ -7,7 +7,7 @@ import {
   CardsModule,
   InputUtilitiesModule,
   IconsModule
-} from 'angular-bootstrap-md';
+} from 'angular-ng-uikit-pro-standard';
 import { CustomersModalComponent } from './components/customers-modal/customers-modal.component';
 import { ProjectModalComponent } from './components/project-modal/project-modal.component';
 import { FormsModule } from '@angular/forms';
